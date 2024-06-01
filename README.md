@@ -10,5 +10,4 @@
 <h3>Contatos</h3>
   <a href="https://www.linkedin.com/in/otavio-bicalho/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-  <a href="otaviobicalho2007@gmail.com" target="_blank">
-            <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="40" height="40"/></a>
+  
